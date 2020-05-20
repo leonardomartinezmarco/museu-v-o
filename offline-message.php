@@ -1,0 +1,1 @@
+Você está offline e não tem dados na memoria do navegador!

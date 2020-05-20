@@ -1,0 +1,105 @@
+body 
+{
+    /* background-image: url('..//Imagens/background.png'); */
+}
+
+.MousePoiter
+{
+    cursor: pointer;
+}
+
+.Status_Ativo
+{
+    color: black;
+    font-size: 20px;
+}
+
+/* Grades de consultas*/
+.Status_Inativo
+{
+    background-color: #ffffe0;
+    text-decoration: line-through;
+    font-size: 20px;
+}
+
+.ativo_select
+{
+    text-align: center;
+    text-align-last: center;
+    -moz-text-align-last: center;
+}
+
+.desc_fixo
+{
+    resize: none;
+}
+
+.obra
+{
+    line-height: 1.2;
+}
+
+.imgBotao
+{
+    height: 30px;
+    width: 30px;
+    padding-right: 20%;
+    padding-top: 10%;
+}
+
+.botao_obra
+{
+    height: 50px;
+    width: 50px;   
+    cursor: pointer;  
+}
+
+.Status_Ativo
+{
+    color: black;
+    font-size: 20px;
+}
+
+.Status_Inativo
+{
+    background-color: #ffffe0;
+    text-decoration: line-through;
+    font-size: 20px;
+}
+
+.table_format
+{
+    text-align: center; 
+    background-color: white;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+  }
+  
+  .slider:hover {
+    opacity: 1;
+  }
+  
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #2F4F4F;
+    cursor: pointer;
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #2F4F4F;
+    cursor: pointer;
+  }

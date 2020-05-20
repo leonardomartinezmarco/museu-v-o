@@ -1,0 +1,38 @@
+CACHE MANIFEST
+# v1.0 : 04/05/2020
+# v1.1 : 05/05/2020
+# v1.2 : 05/05/2020
+
+# pages
+minhaObra_digitar.php
+
+# styles 
+css/bootstrap.min.css
+css/geral.css
+css/sweetalert.css
+
+# scripts
+js/edicaoObra.js
+js/bootstrap.min.js
+js/jquery-3.3.1.js
+js/jquery-3.3.1.slim.min.js
+js/popper.min.js
+js/sweetalert.min.js
+
+# images
+Imagens/icon.png
+Imagens/bold.png
+Imagens/italic.png
+Imagens/underline.png
+Imagens/strikethrough.png
+Imagens/tint.png
+Imagens/align-center.png
+Imagens/align-left.png
+Imagens/align-right.png
+
+
+NETWORK:
+
+FALLBACK:
+/ /offline-message.html
+
