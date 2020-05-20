@@ -31,7 +31,7 @@
     <header class='row'>
         <div class="col-12">
             <nav id='navbar' class="navbar navbar-expand-md navbar-light bg-light shadow-sm">
-                <a class="nav_link col-2" href='index.php'><img src='Imagens/icon-index.png' alt='Logo do site' style='height:50px; width:65px;' data-placement="top" data-toggle="tooltip" title="Voltar a tela inicial"></a>
+                <a class="nav_link col-2" href='index.php'><img src='img/icon-index.png' alt='Logo do site' style='height:50px; width:65px;' data-placement="top" data-toggle="tooltip" title="Voltar a tela inicial"></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
                         <span class="navbar-toggler-icon"></span>
                     </button>
